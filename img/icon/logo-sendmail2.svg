@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="link"
+   class="svg-inline--fa fa-link fa-w-16"
+   role="img"
+   viewBox="0 0 512 512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo-sendmail2_.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.921875"
+     inkscape:cx="348.76356"
+     inkscape:cy="238.9997"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:154.42958069px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#8a48ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1.5854399"
+     y="126.61161"
+     id="text3360"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3362"
+       x="1.5854399"
+       y="126.61161"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:163.68479919px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#8a48ff;fill-opacity:1">Send</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#4acc4f;fill-opacity:1"
+     d="m 101.84558,356.27872 c -12.390212,0 -24.780422,-10.84143 -30.975522,-15.48776 C 39.894539,319.1081 30.601884,311.36422 24.40678,306.71789 l 0,65.04859 c 0,8.55215 6.935612,15.48776 15.487759,15.48776 l 123.902081,0 c 8.55215,0 15.48776,-6.93561 15.48776,-15.48776 l 0,-65.04859 c -6.1951,4.64633 -15.48776,12.39021 -46.46328,34.07307 -6.1951,4.64633 -18.58531,15.48776 -30.97552,15.48776 z m 61.95104,-92.92655 -123.902081,0 c -8.552147,0 -15.487759,6.93561 -15.487759,15.48776 l 0,7.74388 c 12.390208,9.29265 10.841432,9.29265 55.755928,41.81695 4.64633,3.09755 13.93899,12.3902 21.682872,12.3902 7.74388,0 17.03654,-9.29265 21.68287,-10.84143 44.9145,-32.52429 43.36572,-32.52429 55.75593,-41.81695 l 0,-9.29265 c 0,-8.55215 -6.93561,-15.48776 -15.48776,-15.48776 z m 123.90207,-46.46328 -154.87759,0 c -8.55214,0 -15.48776,6.93561 -15.48776,15.48776 l 0,15.48776 46.46328,0 c 16.07339,0 29.3251,12.30309 30.83516,27.98444 l 0.14036,-0.10647 0,65.04858 92.92655,0 c 8.55215,0 15.48776,-6.93561 15.48776,-15.48776 l 0,-92.92655 c 0,-8.55215 -6.93561,-15.48776 -15.48776,-15.48776 z m -15.48776,61.95104 -30.97551,0 0,-30.97552 30.97551,0 0,30.97552 z M 101.84558,232.37665 c 0,-17.08009 13.89543,-30.97552 30.97552,-30.97552 l 108.41432,0 0,-46.46327 c 0,-8.55215 -6.93562,-15.48776 -15.48776,-15.48776 l -154.877602,0 c -8.55215,0 -15.48776,6.93561 -15.48776,15.48776 l 0,92.92655 46.463282,0 0,-15.48776 z"
+     id="path4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:299.88955688px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#8a48ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="342.53189"
+     y="583.31525"
+     id="text3360-36"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3362-7"
+       x="342.53189"
+       y="583.31525"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:317.86242676px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#8a48ff;fill-opacity:1">*</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:258.13409424px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="184.46799"
+     y="500.33478"
+     id="text3360-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3362-6"
+       x="184.46799"
+       y="500.33478"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff9000;fill-opacity:1">2</tspan></text>
+</svg>

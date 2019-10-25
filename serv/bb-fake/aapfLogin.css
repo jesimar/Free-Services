@@ -1,0 +1,19 @@
+input.botaoapf{position: relative;border-bottom: 1px solid #ccc; border-top: 1px solid #ddd;cursor:pointer;font: normal 10px arial !important;	color: #888;	height:23px;border-left: 6px solid #077CC2;	padding-left:9px;border-right: 6px solid #077CC2;outline:none;
+		  -webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;	
+			background: -moz-linear-gradient(top,  #ffffff 1%, #eeeeee 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ffffff), color-stop(100%,#eeeeee)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #ffffff 1%,#eeeeee 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #ffffff 1%,#eeeeee 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #ffffff 1%,#eeeeee 100%); /* IE10+ */
+			background: linear-gradient(to bottom,  #ffffff 1%,#eeeeee 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eeeeee',GradientType=0 ); /* IE6-9 */}
+
+input.botaoapf:hover{border-bottom: 1px solid #ddd; border-top: 1px solid #ccc;background: #eeeeee; /* Old browsers */
+			background: -moz-linear-gradient(top,  #eeeeee 0%, #eeeeee 0%, #ffffff 100%); /* FF3.6+ */
+			background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(0%,#eeeeee), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+			background: -webkit-linear-gradient(top,  #eeeeee 0%,#eeeeee 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+			background: -o-linear-gradient(top,  #eeeeee 0%,#eeeeee 0%,#ffffff 100%); /* Opera 11.10+ */
+			background: -ms-linear-gradient(top,  #eeeeee 0%,#eeeeee 0%,#ffffff 100%); /* IE10+ */
+			background: linear-gradient(to bottom,  #eeeeee 0%,#eeeeee 0%,#ffffff 100%); /* W3C */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}

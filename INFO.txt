@@ -1,0 +1,43 @@
+Servidor de base de dados
+
+	Servidor: Localhost via UNIX socket
+	Tipo de servidor: MariaDB
+	Conexão com o servidor: SSL is not being used Documentação
+	Versão do servidor: 10.3.17-MariaDB-log - MariaDB Server
+	Versão do protocolo: 10
+	Utilizador: 43518@localhost
+	Conjunto de caracteres do servidor: UTF-8 Unicode (utf8)
+
+Servidor web
+
+	Apache/2.4.41
+	Versão do cliente de base de dados: libmysql - mysqlnd 5.0.12-dev - 20150407 - $Id: 3591daad22de08524295e1bd073aceeff11e6579 $
+	Extensão de PHP: mysqli curl mbstring
+	versão do PHP: 7.2.23
+
+phpMyAdmin
+
+	Informação da versão: 4.8.5, última versão estável: 4.9.1
+	
+
+========================================================================
+USANDO PHP
+
+Iniciando execução da interface gráfica do XAMPP:
+$ cd /opt/lampp$ 
+$ sudo ./manager-linux-x64.run
+
+Apenas iniciando o XAMPP: 
+$ sudo ./xampp start
+ou
+$ sudo ./lampp start
+
+Execute o comando abaixo na pasta que vc gostaria de startar o servidor PHP
+$ php -S localhost:8000
+
+
+Para abrir o phpmyadmin faça o seguinte:
+1 - Inicialmente é preciso startar o servidor Apache
+2 - Posteriormente é preciso startar o servidor MySQL (dica use o "sudo ./manager-linux-x64.run" na pasta do LAMPP)
+3 - Acesse a URL: http://localhost/phpmyadmin/
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="link"
+   class="svg-inline--fa fa-link fa-w-16"
+   role="img"
+   viewBox="0 0 512 512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="favicon.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1317"
+     inkscape:window-height="744"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.65186406"
+     inkscape:cx="50.812695"
+     inkscape:cy="213.14193"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 219.148,372.47336 -28.99127,0 a 33.196127,33.196127 0 1 0 0,27.66344 l 28.99127,0 a 60.859565,60.859565 0 1 1 0,-27.66344 z"
+     id="path6-3"
+     style="fill:#005b00;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:468.03292847px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff9000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="194.87172"
+     y="495.33377"
+     id="text3360-3"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3362-6"
+       x="194.87172"
+       y="495.33377"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:452.5px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff9000;fill-opacity:1">S</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:365.59054565px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#8a48ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-17.732683"
+     y="345.66064"
+     id="text3360"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3362"
+       x="-17.732683"
+       y="345.66064"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:452.50097656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#8a48ff;fill-opacity:1">F</tspan></text>
+  <circle
+     style="fill:none;stroke:#005b00;stroke-width:22.13075066;stroke-opacity:1"
+     cx="159.25423"
+     cy="385.96613"
+     r="97.375313"
+     id="circle4-6" />
+  <circle
+     style="fill:none;stroke:#4acc4f;stroke-width:22.13075066;stroke-opacity:1"
+     cx="155.38983"
+     cy="382.10165"
+     r="97.375313"
+     id="circle4" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 215.542,368.38062 -28.99128,0 a 33.196127,33.196127 0 1 0 0,27.66344 l 28.99128,0 a 60.859565,60.859565 0 1 1 0,-27.66344 z"
+     id="path6"
+     style="fill:#4acc4f;fill-opacity:1" />
+</svg>

