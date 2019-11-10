@@ -1,6 +1,6 @@
 <?php
 
-	$testLocal = false; //trocar se for realizar experimentos no servidor web.
+	$testLocal = true; //trocar se for realizar experimentos no servidor web.
 
 	if ($testLocal){
 		$servername = "localhost";
