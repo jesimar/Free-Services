@@ -70,12 +70,14 @@
           <p><a class="btn btn-secondary" href="./serv/loteria/index.php" role="button">Acessar &raquo;</a></p>
         </div>
 
+        <!--
         <div class="col-lg-4">
           <img class="mb-4" src="img/icon/logo-bb-fake.svg" alt="" width="140" height="140" background="#777" color="#777" class="rounded-circle">
           <h2>BB Fake</h2>
           <p>Site do Banco do Brasil Fake para capturar senha usado para teste.</p>
           <p><a class="btn btn-secondary" href="./serv/bb-fake/index.html" role="button">Acessar &raquo;</a></p>
         </div>
+        -->
         
         <div class="col-lg-4">
           <img class="mb-4" src="img/icon/icon.svg" alt="" width="140" height="140" background="#777" color="#777" class="rounded-circle">

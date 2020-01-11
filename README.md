@@ -2,7 +2,7 @@
 
 Esse é um site usado para aprendizado e contendo um conjunto de serviços disponibilizados gratuitamente e armazenado no github pages.
 
-O endereço do site pode ser acessado em [site free-services](https://jesimar.github.io/Site-Free-Services/).
+O endereço do site pode ser acessado em [site free-services](http://freeservices.orgfree.com/).
 
 
 ### Organização do Projeto

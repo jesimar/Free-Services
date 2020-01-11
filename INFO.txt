@@ -24,7 +24,7 @@ phpMyAdmin
 USANDO PHP
 
 Iniciando execução da interface gráfica do XAMPP:
-$ cd /opt/lampp$ 
+$ cd /opt/lampp
 $ sudo ./manager-linux-x64.run
 
 Apenas iniciando o XAMPP: 
@@ -41,3 +41,6 @@ Para abrir o phpmyadmin faça o seguinte:
 2 - Posteriormente é preciso startar o servidor MySQL (dica use o "sudo ./manager-linux-x64.run" na pasta do LAMPP)
 3 - Acesse a URL: http://localhost/phpmyadmin/
 
+
+Para acessar o Site Desenvolvido em php faça entre na URL (tendo o comando php -S localhost:8000 executado na pasta que tem código php)
+URL: http://localhost:8000/
